@@ -41,7 +41,11 @@ This project analyzes a digital experiment conducted by Vanguard to evaluate whe
    - Assessed initial differences between Control and Test groups.
 
 3. **Performance Metrics Evaluation**:
-   - Defined KPIs (Completion Rate, Time to Completion, Drop-off Rates).
+   - Defined KPIs
+     Completion Rate
+     Time to Completion
+     Drop-off Rates
+     Error Rate
    - Compared Control vs. Test groups using visual and statistical methods.
 
 4. **Hypothesis Testing**:
